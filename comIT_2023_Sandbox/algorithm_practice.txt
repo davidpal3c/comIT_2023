@@ -1,0 +1,25 @@
+# Let's develop an algorithm that requests the input of two
+# numbers and calculate its product.
+
+algorithm calculate_product
+    var Number: number_1            #variable declaration and type of data (Number)
+    var Number: number_2
+    var Number: product
+
+    print("Please enter the first number: ")
+    read(number_1)
+
+    print("Please enter the second number")
+    read(number_2)
+
+    print = number_1 * number_2
+    
+    print("The product of " + number_1 + " and " + number_2 + " was " + product)
+
+end algorithm 
+
+
+
+
+
+
