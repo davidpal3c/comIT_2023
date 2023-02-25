@@ -19,12 +19,10 @@ print (z)
 #or
 print (x, y, z)
 
-
 #Ex.2
 #Variable with an operation
 points=15
 print(points*3)
-
 
 #Simple calculation
 first = float(input('First: '))
